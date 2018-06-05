@@ -17,3 +17,9 @@ wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/do
 wget https://github.com/NVIDIA/nvidia-docker/releases/download/v1.0.1/nvidia-docker_1.0.1-1_amd64.deb
 sudo dpkg -i nvidia-docker*.deb
 ```
+
+# Python 3 Script
+
+``` bash
+wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/python3_installation.sh' | sudo bash
+```
