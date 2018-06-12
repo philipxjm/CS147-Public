@@ -4,12 +4,12 @@ Public support scripts for Brown CS147
 # CUDA Script
 
 ``` bash
-wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/gcloud_cuda_script.sh' | sudo bash
+wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/scripts/gcloud_cuda_script.sh' | sudo bash
 ```
 # Docker Script
 
 ``` bash
-wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/docker_script.sh' | sudo bash
+wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/scripts/docker_script.sh' | sudo bash
 ```
 # Nvidia Script
 
@@ -21,5 +21,5 @@ sudo dpkg -i nvidia-docker*.deb
 # Python 3 Script
 
 ``` bash
-wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/python3_installation.sh' | sudo bash
+wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/scripts/python3_installation.sh' | sudo bash
 ```
