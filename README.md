@@ -29,7 +29,7 @@ wget -O - -q 'https://raw.githubusercontent.com/philipxjm/CS147-Public/master/sc
 ``` bash
 cd /tmp
 curl -O https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh
-bash Anaconda3-5.0.1-Linux-x86_64.sh
+bash Anaconda3-5.2.0-Linux-x86_64.sh
 conda create --name deeplearning python=3
 source activate deeplearning
 conda install --name deeplearning numpy
